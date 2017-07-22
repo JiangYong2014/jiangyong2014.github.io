@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Yong Jiang</title>
-    <link>https://jiangyong2014.github.io/publication_types/1/</link>
+    <link>/publication_types/1/</link>
     <description>Recent content in 1 on Yong Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,55 +12,55 @@
     
     <item>
       <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
-      <link>https://jiangyong2014.github.io/publication/crfae-emnlp17/</link>
+      <link>/publication/crfae-emnlp17/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/crfae-emnlp17/</guid>
+      <guid>/publication/crfae-emnlp17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition</title>
-      <link>https://jiangyong2014.github.io/publication/judp-emnlp17/</link>
+      <link>/publication/judp-emnlp17/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/judp-emnlp17/</guid>
+      <guid>/publication/judp-emnlp17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency Grammar Induction with Neural Lexicalization and Big Training Data</title>
-      <link>https://jiangyong2014.github.io/publication/nldmv-emnlp17/</link>
+      <link>/publication/nldmv-emnlp17/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/nldmv-emnlp17/</guid>
+      <guid>/publication/nldmv-emnlp17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised Structured Prediction with Neural CRF Autoencoder</title>
-      <link>https://jiangyong2014.github.io/publication/ncrfae-emnlp17/</link>
+      <link>/publication/ncrfae-emnlp17/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/ncrfae-emnlp17/</guid>
+      <guid>/publication/ncrfae-emnlp17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Dependency Forest Models</title>
-      <link>https://jiangyong2014.github.io/publication/ldfm-aaai17/</link>
+      <link>/publication/ldfm-aaai17/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/ldfm-aaai17/</guid>
+      <guid>/publication/ldfm-aaai17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Neural Dependency Parsing</title>
-      <link>https://jiangyong2014.github.io/publication/updp-emnlp16/</link>
+      <link>/publication/updp-emnlp16/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jiangyong2014.github.io/publication/updp-emnlp16/</guid>
+      <guid>/publication/updp-emnlp16/</guid>
       <description></description>
     </item>
     
