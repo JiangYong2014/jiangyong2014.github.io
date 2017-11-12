@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>/publication/mapspn-aaai18/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mapspn-aaai18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
       <link>/publication/crfae-emnlp17/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
@@ -52,15 +61,6 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/ldfm-aaai17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
-      <link>/publication/mapspn-aaai18/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mapspn-aaai18/</guid>
       <description></description>
     </item>
     
