@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yong Jiang</title>
-    <link>https://jiangyong.site/</link>
-      <atom:link href="https://jiangyong.site/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yong Jiang</description>
+    <title>Kewei Tu | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/kewei-tu/</link>
+      <atom:link href="https://jiangyong.site/authors/kewei-tu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kewei Tu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
-      <title>Yong Jiang</title>
-      <link>https://jiangyong.site/</link>
+      <title>Kewei Tu</title>
+      <link>https://jiangyong.site/authors/kewei-tu/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
-      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
       <description></description>
     </item>
     

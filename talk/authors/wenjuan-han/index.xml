@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenjuan Han | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/wenjuan-han/</link>
+      <atom:link href="https://jiangyong.site/authors/wenjuan-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenjuan Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Wenjuan Han</title>
+      <link>https://jiangyong.site/authors/wenjuan-han/</link>
+    </image>
+    
+    <item>
+      <title>A Regularization-Based Framework for Bilingual Grammar Induction</title>
+      <link>https://jiangyong.site/publication/jiang-2019-regularization/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2019-regularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual Grammar Induction with Continuous Language Identification</title>
+      <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexicalized Neural Unsupervised Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/han-2019-lexicalized/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2019-lexicalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition</title>
+      <link>https://jiangyong.site/publication/jiang-2017-combining/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2017-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependency Grammar Induction with Neural Lexicalization and Big Training Data</title>
+      <link>https://jiangyong.site/publication/han-2017-dependency/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2017-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Neural Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/yong-2016-unsupervised/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/yong-2016-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

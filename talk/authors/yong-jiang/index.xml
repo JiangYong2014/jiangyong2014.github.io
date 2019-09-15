@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong Jiang</title>
-    <link>https://jiangyong.site/</link>
-      <atom:link href="https://jiangyong.site/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiangyong.site/authors/yong-jiang/</link>
+      <atom:link href="https://jiangyong.site/authors/yong-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Jiang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Yong Jiang</title>
-      <link>https://jiangyong.site/</link>
+      <link>https://jiangyong.site/authors/yong-jiang/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
-      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
       <description></description>
     </item>
     
@@ -113,14 +105,6 @@
       <link>https://jiangyong.site/publication/zhang-2017-semi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/zhang-2017-semi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Neural Dependency Parsing</title>
-      <link>https://jiangyong.site/publication/yong-2016-unsupervised/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/yong-2016-unsupervised/</guid>
       <description></description>
     </item>
     
