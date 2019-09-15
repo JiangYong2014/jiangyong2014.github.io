@@ -1,84 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Yong Jiang</title>
-    <link>/publication_types/1/</link>
-    <description>Recent content in 1 on Yong Jiang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Yong Jiang</copyright>
-    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    <title>1 | Yong Jiang</title>
+    <link>https://jiangyong.site/publication_types/1/</link>
+      <atom:link href="https://jiangyong.site/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://jiangyong.site/publication_types/1/</link>
+    </image>
     
     <item>
-      <title>Bidirectional Transition-Based Dependency Parsing</title>
-      <link>/publication/bidep-aaai19/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bidep-aaai19/</guid>
+      <title>A Regularization-Based Framework for Bilingual Grammar Induction</title>
+      <link>https://jiangyong.site/publication/jiang-2019-regularization/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2019-regularization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
-      <link>/publication/mapspn-aaai18/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mapspn-aaai18/</guid>
+      <title>Multilingual Grammar Induction with Continuous Language Identification</title>
+      <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
-      <link>/publication/crfae-emnlp17/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/crfae-emnlp17/</guid>
+      <link>https://jiangyong.site/publication/cai-2017-crf/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/cai-2017-crf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition</title>
-      <link>/publication/judp-emnlp17/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/judp-emnlp17/</guid>
+      <link>https://jiangyong.site/publication/jiang-2017-combining/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2017-combining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dependency Grammar Induction with Neural Lexicalization and Big Training Data</title>
-      <link>/publication/nldmv-emnlp17/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/nldmv-emnlp17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-supervised Structured Prediction with Neural CRF Autoencoder</title>
-      <link>/publication/ncrfae-emnlp17/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ncrfae-emnlp17/</guid>
+      <link>https://jiangyong.site/publication/han-2017-dependency/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2017-dependency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Dependency Forest Models</title>
-      <link>/publication/ldfm-aaai17/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ldfm-aaai17/</guid>
+      <link>https://jiangyong.site/publication/chu-2017-latent/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/chu-2017-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Structured Prediction with Neural CRF Autoencoder</title>
+      <link>https://jiangyong.site/publication/zhang-2017-semi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/zhang-2017-semi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unsupervised Neural Dependency Parsing</title>
-      <link>/publication/updp-emnlp16/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/updp-emnlp16/</guid>
+      <link>https://jiangyong.site/publication/yong-2016-unsupervised/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/yong-2016-unsupervised/</guid>
       <description></description>
     </item>
     

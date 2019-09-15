@@ -1,161 +1,216 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/bidep-aaai19/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication_types/1/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/mapspn-aaai18/</loc>
-      <lastmod>2017-11-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/jiang-2019-regularization/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/crfae-emnlp17/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/judp-emnlp17/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/ge-wang/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/nldmv-emnlp17/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/kewei-tu/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/ncrfae-emnlp17/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/han-2019-multilingual/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/wenjuan-han/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/yong-jiang/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/ldfm-aaai17/</loc>
-      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/updp-emnlp16/</loc>
-      <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication_types/2/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/wenjuan-2019-enhancing/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/yong-jiang-kewei-tu-wenjuan-han/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/yuan-2019-bidirectional/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/authors/jiong-cai/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://jiangyong.site/publication/han-2019-lexicalized/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/jiang-2019-robust/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yunzhe-yuan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/jun-mei/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/jiang-2018-learning/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/mei-2017-maximum/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yang-zhou/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/cai-2017-crf/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/jiang-2017-combining/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/han-2017-dependency/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/dan-goldwasser/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/hao-peng/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/chu-2017-latent/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/zhang-2017-semi/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/shanbo-chu/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/xiao-zhang/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/jiang-yong/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/yong-2016-unsupervised/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/tags/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
