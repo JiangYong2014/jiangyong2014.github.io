@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structured Prediction | Yong Jiang</title>
+    <link>https://jiangyong.site/categories/structured-prediction/</link>
+      <atom:link href="https://jiangyong.site/categories/structured-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Structured Prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Structured Prediction</title>
+      <link>https://jiangyong.site/categories/structured-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Attack and Defense of Structured Prediction Models</title>
+      <link>https://jiangyong.site/publication/han-etal-2020-adversarial/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-etal-2020-adversarial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

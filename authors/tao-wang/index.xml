@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Wang | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/tao-wang/</link>
+      <atom:link href="https://jiangyong.site/authors/tao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Tao Wang</title>
+      <link>https://jiangyong.site/authors/tao-wang/</link>
+    </image>
+    
+    <item>
+      <title>AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-fastseq/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-fastseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Embeddings, Better Sequence Labelers?</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-combembed/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-combembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-structure/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-structure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/authors/kewei-tu/</link>
       <atom:link href="https://jiangyong.site/authors/kewei-tu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kewei Tu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Kewei Tu</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>A Regularization-Based Framework for Bilingual Grammar Induction</title>
-      <link>https://jiangyong.site/publication/jiang-2019-regularization/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2019-regularization/</guid>
+      <title>AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-fastseq/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-fastseq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multilingual Grammar Induction with Continuous Language Identification</title>
-      <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
+      <title>Adversarial Attack and Defense of Structured Prediction Models</title>
+      <link>https://jiangyong.site/publication/han-etal-2020-adversarial/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-etal-2020-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Embeddings, Better Sequence Labelers?</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-combembed/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-combembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Comparison of Unsupervised Constituency Parsing Methods</title>
+      <link>https://jiangyong.site/publication/li-etal-2020-empirical/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/li-etal-2020-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-structure/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regularization-Based Framework for Bilingual Grammar Induction</title>
+      <link>https://jiangyong.site/publication/jiang-2019-regularization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2019-regularization/</guid>
       <description></description>
     </item>
     
@@ -45,6 +77,14 @@
     </item>
     
     <item>
+      <title>Multilingual Grammar Induction with Continuous Language Identification</title>
+      <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust unsupervised discriminative dependency parsing</title>
       <link>https://jiangyong.site/publication/jiang-2019-robust/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -53,25 +93,9 @@
     </item>
     
     <item>
-      <title>Learning and evaluation of latent dependency forest models</title>
-      <link>https://jiangyong.site/publication/jiang-2018-learning/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2018-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
-      <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
       <link>https://jiangyong.site/publication/cai-2017-crf/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/cai-2017-crf/</guid>
       <description></description>
     </item>
@@ -79,7 +103,7 @@
     <item>
       <title>Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition</title>
       <link>https://jiangyong.site/publication/jiang-2017-combining/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/jiang-2017-combining/</guid>
       <description></description>
     </item>
@@ -87,7 +111,7 @@
     <item>
       <title>Dependency Grammar Induction with Neural Lexicalization and Big Training Data</title>
       <link>https://jiangyong.site/publication/han-2017-dependency/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/han-2017-dependency/</guid>
       <description></description>
     </item>
@@ -97,6 +121,14 @@
       <link>https://jiangyong.site/publication/chu-2017-latent/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/chu-2017-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
       <description></description>
     </item>
     
@@ -111,7 +143,7 @@
     <item>
       <title>Unsupervised Neural Dependency Parsing</title>
       <link>https://jiangyong.site/publication/yong-2016-unsupervised/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/yong-2016-unsupervised/</guid>
       <description></description>
     </item>

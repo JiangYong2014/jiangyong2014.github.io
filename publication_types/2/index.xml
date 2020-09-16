@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/publication_types/2/</link>
       <atom:link href="https://jiangyong.site/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
-      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bidirectional Transition-Based Dependency Parsing</title>
       <link>https://jiangyong.site/publication/yuan-2019-bidirectional/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/yuan-2019-bidirectional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
+      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
       <description></description>
     </item>
     
@@ -45,17 +45,9 @@
     </item>
     
     <item>
-      <title>Learning and evaluation of latent dependency forest models</title>
-      <link>https://jiangyong.site/publication/jiang-2018-learning/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2018-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
       <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
       <description></description>
     </item>
