@@ -72,6 +72,12 @@
   </url>
   
   <url>
+    <loc>https://jiangyong.site/categories/reinforcement-learning/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jiangyong.site/categories/sequence-labeling/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,6 +131,12 @@
   </url>
   
   <url>
+    <loc>https://jiangyong.site/categories/grammar-induction/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jiangyong.site/authors/jiong-cai/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -138,6 +150,12 @@
   
   <url>
     <loc>https://jiangyong.site/categories/multi-lingual-nlp/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/parsing/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -181,7 +199,7 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/categories/grammar-induction/</loc>
+    <loc>https://jiangyong.site/categories/latent-variable-model/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -254,6 +272,12 @@
   <url>
     <loc>https://jiangyong.site/publication/mei-2017-maximum/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/probabilistic-modeling/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

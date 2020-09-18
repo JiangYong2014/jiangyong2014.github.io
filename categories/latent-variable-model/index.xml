@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Variable Model | Yong Jiang</title>
+    <link>https://jiangyong.site/categories/latent-variable-model/</link>
+      <atom:link href="https://jiangyong.site/categories/latent-variable-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latent Variable Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Latent Variable Model</title>
+      <link>https://jiangyong.site/categories/latent-variable-model/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
+      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/cai-2017-crf/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/cai-2017-crf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Dependency Forest Models</title>
+      <link>https://jiangyong.site/publication/chu-2017-latent/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/chu-2017-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Neural Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/yong-2016-unsupervised/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/yong-2016-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

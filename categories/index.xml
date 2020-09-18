@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Reinforcement Learning</title>
+      <link>https://jiangyong.site/categories/reinforcement-learning/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sequence Labeling</title>
       <link>https://jiangyong.site/categories/sequence-labeling/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -29,6 +37,14 @@
     </item>
     
     <item>
+      <title>Grammar Induction</title>
+      <link>https://jiangyong.site/categories/grammar-induction/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/grammar-induction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-lingual NLP</title>
       <link>https://jiangyong.site/categories/multi-lingual-nlp/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -37,10 +53,26 @@
     </item>
     
     <item>
-      <title>Grammar Induction</title>
-      <link>https://jiangyong.site/categories/grammar-induction/</link>
+      <title>Parsing</title>
+      <link>https://jiangyong.site/categories/parsing/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Variable Model</title>
+      <link>https://jiangyong.site/categories/latent-variable-model/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/categories/grammar-induction/</guid>
+      <guid>https://jiangyong.site/categories/latent-variable-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Modeling</title>
+      <link>https://jiangyong.site/categories/probabilistic-modeling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/probabilistic-modeling/</guid>
       <description></description>
     </item>
     
