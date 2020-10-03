@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/authors/</link>
       <atom:link href="https://jiangyong.site/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
-      <title> Zechuan Hu</title>
-      <link>https://jiangyong.site/authors/zechuan-hu/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/zechuan-hu/</guid>
+      <title>Hwee Tou Ng</title>
+      <link>https://jiangyong.site/authors/hwee-tou-ng/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/hwee-tou-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kewei Tu</title>
+      <link>https://jiangyong.site/authors/kewei-tu/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songlin Yang**</title>
+      <link>https://jiangyong.site/authors/songlin-yang/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/songlin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjuan Han</title>
+      <link>https://jiangyong.site/authors/wenjuan-han/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/wenjuan-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Jiang</title>
+      <link>https://jiangyong.site/authors/yong-jiang/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
       <description></description>
     </item>
     
@@ -29,15 +61,7 @@
     </item>
     
     <item>
-      <title>Kewei Tu</title>
-      <link>https://jiangyong.site/authors/kewei-tu/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liwen Zhang</title>
+      <title>Liwen Zhang*</title>
       <link>https://jiangyong.site/authors/liwen-zhang/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/liwen-zhang/</guid>
@@ -61,15 +85,7 @@
     </item>
     
     <item>
-      <title>Wenjuan Han</title>
-      <link>https://jiangyong.site/authors/wenjuan-han/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/wenjuan-han/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinyu Wang</title>
+      <title>Xinyu Wang**</title>
       <link>https://jiangyong.site/authors/xinyu-wang/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/xinyu-wang/</guid>
@@ -77,10 +93,10 @@
     </item>
     
     <item>
-      <title>Yong Jiang</title>
-      <link>https://jiangyong.site/authors/yong-jiang/</link>
+      <title>Zechuan Hu**</title>
+      <link>https://jiangyong.site/authors/zechuan-hu/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
+      <guid>https://jiangyong.site/authors/zechuan-hu/</guid>
       <description></description>
     </item>
     
@@ -101,7 +117,7 @@
     </item>
     
     <item>
-      <title>Jun Li</title>
+      <title>Jun Li**</title>
       <link>https://jiangyong.site/authors/jun-li/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/jun-li/</guid>
@@ -133,7 +149,7 @@
     </item>
     
     <item>
-      <title>Yunzhe Yuan</title>
+      <title>Yunzhe Yuan**</title>
       <link>https://jiangyong.site/authors/yunzhe-yuan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/yunzhe-yuan/</guid>
@@ -157,7 +173,7 @@
     </item>
     
     <item>
-      <title>Jun Mei</title>
+      <title>Jun Mei**</title>
       <link>https://jiangyong.site/authors/jun-mei/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/jun-mei/</guid>

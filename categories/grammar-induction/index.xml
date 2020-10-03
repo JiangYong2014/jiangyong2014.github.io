@@ -5,12 +5,28 @@
     <link>https://jiangyong.site/categories/grammar-induction/</link>
       <atom:link href="https://jiangyong.site/categories/grammar-induction/index.xml" rel="self" type="application/rss+xml" />
     <description>Grammar Induction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Grammar Induction</title>
       <link>https://jiangyong.site/categories/grammar-induction/</link>
     </image>
+    
+    <item>
+      <title>A Survey of Unsupervised Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/han-etal-2020-survey/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-etal-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Order Unsupervised Neural Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/yang-2020-2nd-udp/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/yang-2020-2nd-udp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Empirical Comparison of Unsupervised Constituency Parsing Methods</title>

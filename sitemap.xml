@@ -3,14 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jiangyong.site/authors/zechuan-hu/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>https://jiangyong.site/publication_types/1/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jiangyong.site/publication_types/1/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>https://jiangyong.site/publication_types/2/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/han-etal-2020-survey/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/grammar-induction/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/hwee-tou-ng/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/kewei-tu/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/parsing/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication_types/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/yang-2020-2nd-udp/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/songlin-yang/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/wenjuan-han/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yong-jiang/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,25 +112,7 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/authors/fei-huang/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/kewei-tu/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -66,18 +130,6 @@
   
   <url>
     <loc>https://jiangyong.site/authors/nguyen-bach/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -107,25 +159,13 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/wenjuan-han/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/authors/xinyu-wang/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/yong-jiang/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/</loc>
+    <loc>https://jiangyong.site/authors/zechuan-hu/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -139,12 +179,6 @@
   <url>
     <loc>https://jiangyong.site/publication/li-etal-2020-empirical/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/grammar-induction/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -166,12 +200,6 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/categories/parsing/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/publication/wang-etal-2020-structure/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -179,12 +207,6 @@
   <url>
     <loc>https://jiangyong.site/authors/yifan-cao/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
