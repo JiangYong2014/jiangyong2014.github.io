@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/categories/multi-lingual-nlp/</link>
       <atom:link href="https://jiangyong.site/categories/multi-lingual-nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-lingual NLP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Multi-lingual NLP</title>
       <link>https://jiangyong.site/categories/multi-lingual-nlp/</link>
     </image>
+    
+    <item>
+      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-structured/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-structured/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>

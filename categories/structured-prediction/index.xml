@@ -5,12 +5,28 @@
     <link>https://jiangyong.site/categories/structured-prediction/</link>
       <atom:link href="https://jiangyong.site/categories/structured-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Structured Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Structured Prediction</title>
       <link>https://jiangyong.site/categories/structured-prediction/</link>
     </image>
+    
+    <item>
+      <title>Automated Concatenation of Embeddings for Structured Prediction</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-ace/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-structured/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-structured/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adversarial Attack and Defense of Structured Prediction Models</title>

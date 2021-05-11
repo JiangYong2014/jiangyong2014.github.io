@@ -5,12 +5,44 @@
     <link>https://jiangyong.site/categories/</link>
       <atom:link href="https://jiangyong.site/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://jiangyong.site/categories/</link>
     </image>
+    
+    <item>
+      <title>Multi-lingual NLP</title>
+      <link>https://jiangyong.site/categories/multi-lingual-nlp/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/multi-lingual-nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NER</title>
+      <link>https://jiangyong.site/categories/ner/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/ner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Labeling</title>
+      <link>https://jiangyong.site/categories/sequence-labeling/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/sequence-labeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Prediction</title>
+      <link>https://jiangyong.site/categories/structured-prediction/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/categories/structured-prediction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grammar Induction</title>
@@ -33,30 +65,6 @@
       <link>https://jiangyong.site/categories/reinforcement-learning/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/categories/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sequence Labeling</title>
-      <link>https://jiangyong.site/categories/sequence-labeling/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/categories/sequence-labeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structured Prediction</title>
-      <link>https://jiangyong.site/categories/structured-prediction/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/categories/structured-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-lingual NLP</title>
-      <link>https://jiangyong.site/categories/multi-lingual-nlp/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/categories/multi-lingual-nlp/</guid>
       <description></description>
     </item>
     
