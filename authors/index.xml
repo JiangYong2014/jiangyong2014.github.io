@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/authors/</link>
       <atom:link href="https://jiangyong.site/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,72 @@
     <item>
       <title>Fei Huang</title>
       <link>https://jiangyong.site/authors/fei-huang/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/fei-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nguyen Bach</title>
+      <link>https://jiangyong.site/authors/nguyen-bach/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/nguyen-bach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Ji**</title>
+      <link>https://jiangyong.site/authors/tao-ji/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/tao-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Wang</title>
+      <link>https://jiangyong.site/authors/tao-wang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/tao-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiming Lu</title>
+      <link>https://jiangyong.site/authors/weiming-lu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/weiming-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoling Wang</title>
+      <link>https://jiangyong.site/authors/xiaoling-wang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xiaoling-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyin Ma**</title>
+      <link>https://jiangyong.site/authors/xinyin-ma/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xinyin-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Jiang</title>
+      <link>https://jiangyong.site/authors/yong-jiang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanbin Wu</title>
+      <link>https://jiangyong.site/authors/yuanbin-wu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yuanbin-wu/</guid>
       <description></description>
     </item>
     
@@ -29,34 +93,10 @@
     </item>
     
     <item>
-      <title>Nguyen Bach</title>
-      <link>https://jiangyong.site/authors/nguyen-bach/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/nguyen-bach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tao Wang</title>
-      <link>https://jiangyong.site/authors/tao-wang/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/tao-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xinyu Wang**</title>
       <link>https://jiangyong.site/authors/xinyu-wang/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/xinyu-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yong Jiang</title>
-      <link>https://jiangyong.site/authors/yong-jiang/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
       <description></description>
     </item>
     
@@ -109,7 +149,7 @@
     </item>
     
     <item>
-      <title>Jiong Cai</title>
+      <title>Jiong Cai**</title>
       <link>https://jiangyong.site/authors/jiong-cai/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/jiong-cai/</guid>

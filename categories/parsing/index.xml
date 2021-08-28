@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/categories/parsing/</link>
       <atom:link href="https://jiangyong.site/categories/parsing/index.xml" rel="self" type="application/rss+xml" />
     <description>Parsing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Parsing</title>
       <link>https://jiangyong.site/categories/parsing/</link>
     </image>
+    
+    <item>
+      <title>A Unified Encoding of Structures in Transition Systems</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-transition/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-transition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey of Unsupervised Dependency Parsing</title>

@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/authors/nguyen-bach/</link>
       <atom:link href="https://jiangyong.site/authors/nguyen-bach/index.xml" rel="self" type="application/rss+xml" />
     <description>Nguyen Bach</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Nguyen Bach</title>
       <link>https://jiangyong.site/authors/nguyen-bach/</link>
     </image>
+    
+    <item>
+      <title>MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</title>
+      <link>https://jiangyong.site/publication/ma-etal-2021-muver/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ma-etal-2021-muver/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>

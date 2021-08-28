@@ -5,12 +5,36 @@
     <link>https://jiangyong.site/publication_types/1/</link>
       <atom:link href="https://jiangyong.site/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>1</title>
       <link>https://jiangyong.site/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A Unified Encoding of Structures in Transition Systems</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-transition/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</title>
+      <link>https://jiangyong.site/publication/ma-etal-2021-muver/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ma-etal-2021-muver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Reordering for Zero-shot Cross-lingual Structured Prediction</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-reordering/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-reordering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>

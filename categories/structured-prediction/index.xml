@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/categories/structured-prediction/</link>
       <atom:link href="https://jiangyong.site/categories/structured-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Structured Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Structured Prediction</title>
       <link>https://jiangyong.site/categories/structured-prediction/</link>
     </image>
+    
+    <item>
+      <title>Word Reordering for Zero-shot Cross-lingual Structured Prediction</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-reordering/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-reordering/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>
