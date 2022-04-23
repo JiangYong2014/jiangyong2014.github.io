@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Wang | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/tao-wang/</link>
+      <atom:link href="https://jiangyong.site/authors/tao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Tao Wang</title>
+      <link>https://jiangyong.site/authors/tao-wang/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Encoding of Structures in Transition Systems</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-transition/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</title>
+      <link>https://jiangyong.site/publication/ma-etal-2021-muver/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ma-etal-2021-muver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Reordering for Zero-shot Cross-lingual Structured Prediction</title>
+      <link>https://jiangyong.site/publication/ji-etal-2021-reordering/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/ji-etal-2021-reordering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Concatenation of Embeddings for Structured Prediction</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-ace/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-ace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-retrieval/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Cross-Lingual Structured Prediction with Minimum Supervision</title>
+      <link>https://jiangyong.site/publication/hu-2021-multiview/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/hu-2021-multiview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Minimization for Zero-shot Sequence Labeling</title>
+      <link>https://jiangyong.site/publication/hu-2021-riskmin/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/hu-2021-riskmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
+      <link>https://jiangyong.site/publication/wang-etal-2021-structured/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2021-structured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-fastseq/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-fastseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation of Potential Function Designs for Neural CRF</title>
+      <link>https://jiangyong.site/publication/hu-2020-empirical/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/hu-2020-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Embeddings, Better Sequence Labelers?</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-combembed/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-combembed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>
+      <link>https://jiangyong.site/publication/wang-etal-2020-structure/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2020-structure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

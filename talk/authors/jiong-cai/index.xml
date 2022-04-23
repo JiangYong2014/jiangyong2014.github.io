@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/authors/jiong-cai/</link>
       <atom:link href="https://jiangyong.site/authors/jiong-cai/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiong Cai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Jiong Cai</title>
       <link>https://jiangyong.site/authors/jiong-cai/</link>
     </image>
+    
+    <item>
+      <title>An Empirical Comparison of Unsupervised Constituency Parsing Methods</title>
+      <link>https://jiangyong.site/publication/li-etal-2020-empirical/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/li-etal-2020-empirical/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust unsupervised discriminative dependency parsing</title>
@@ -23,7 +31,7 @@
     <item>
       <title>CRF Autoencoder for Unsupervised Dependency Parsing</title>
       <link>https://jiangyong.site/publication/cai-2017-crf/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/cai-2017-crf/</guid>
       <description></description>
     </item>

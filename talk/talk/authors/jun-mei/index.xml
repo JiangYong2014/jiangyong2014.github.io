@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Mei | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/jun-mei/</link>
+      <atom:link href="https://jiangyong.site/authors/jun-mei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Mei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Jun Mei</title>
+      <link>https://jiangyong.site/authors/jun-mei/</link>
+    </image>
+    
+    <item>
+      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
+      <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

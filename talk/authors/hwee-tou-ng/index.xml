@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hwee Tou Ng | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/hwee-tou-ng/</link>
+      <atom:link href="https://jiangyong.site/authors/hwee-tou-ng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hwee Tou Ng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Hwee Tou Ng</title>
+      <link>https://jiangyong.site/authors/hwee-tou-ng/</link>
+    </image>
+    
+    <item>
+      <title>A Survey of Unsupervised Dependency Parsing</title>
+      <link>https://jiangyong.site/publication/han-etal-2020-survey/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/han-etal-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

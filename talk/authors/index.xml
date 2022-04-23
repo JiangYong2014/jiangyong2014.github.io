@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/authors/</link>
       <atom:link href="https://jiangyong.site/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,74 +13,186 @@
     </image>
     
     <item>
-      <title>Ge Wang</title>
-      <link>https://jiangyong.site/authors/ge-wang/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/ge-wang/</guid>
+      <title>Fei Huang</title>
+      <link>https://jiangyong.site/authors/fei-huang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/fei-huang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kewei Tu</title>
-      <link>https://jiangyong.site/authors/kewei-tu/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
+      <title>Nguyen Bach</title>
+      <link>https://jiangyong.site/authors/nguyen-bach/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/nguyen-bach/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wenjuan Han</title>
-      <link>https://jiangyong.site/authors/wenjuan-han/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/wenjuan-han/</guid>
+      <title>Tao Ji**</title>
+      <link>https://jiangyong.site/authors/tao-ji/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/tao-ji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Wang</title>
+      <link>https://jiangyong.site/authors/tao-wang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/tao-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiming Lu</title>
+      <link>https://jiangyong.site/authors/weiming-lu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/weiming-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoling Wang</title>
+      <link>https://jiangyong.site/authors/xiaoling-wang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xiaoling-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyin Ma**</title>
+      <link>https://jiangyong.site/authors/xinyin-ma/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xinyin-ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yong Jiang</title>
       <link>https://jiangyong.site/authors/yong-jiang/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/yong-jiang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Yong Jiang, Kewei Tu Wenjuan Han</title>
-      <link>https://jiangyong.site/authors/yong-jiang-kewei-tu-wenjuan-han/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yong-jiang-kewei-tu-wenjuan-han/</guid>
+      <title>Yuanbin Wu</title>
+      <link>https://jiangyong.site/authors/yuanbin-wu/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yuanbin-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kewei Tu</title>
+      <link>https://jiangyong.site/authors/kewei-tu/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyu Wang**</title>
+      <link>https://jiangyong.site/authors/xinyu-wang/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xinyu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zechuan Hu**</title>
+      <link>https://jiangyong.site/authors/zechuan-hu/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/zechuan-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhongqiang Huang</title>
+      <link>https://jiangyong.site/authors/zhongqiang-huang/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/zhongqiang-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hwee Tou Ng</title>
+      <link>https://jiangyong.site/authors/hwee-tou-ng/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/hwee-tou-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songlin Yang**</title>
+      <link>https://jiangyong.site/authors/songlin-yang/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/songlin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjuan Han</title>
+      <link>https://jiangyong.site/authors/wenjuan-han/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/wenjuan-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liwen Zhang*</title>
+      <link>https://jiangyong.site/authors/liwen-zhang/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/liwen-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiong Cai</title>
       <link>https://jiangyong.site/authors/jiong-cai/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/jiong-cai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Yunzhe Yuan</title>
+      <title>Jun Li**</title>
+      <link>https://jiangyong.site/authors/jun-li/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/jun-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifan Cao</title>
+      <link>https://jiangyong.site/authors/yifan-cao/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yifan-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ge Wang</title>
+      <link>https://jiangyong.site/authors/ge-wang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/ge-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjuan Han, Yong Jiang, Kewei Tu</title>
+      <link>https://jiangyong.site/authors/wenjuan-han-yong-jiang-kewei-tu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/wenjuan-han-yong-jiang-kewei-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunzhe Yuan**</title>
       <link>https://jiangyong.site/authors/yunzhe-yuan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/yunzhe-yuan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jun Mei</title>
-      <link>https://jiangyong.site/authors/jun-mei/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/jun-mei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang Zhou</title>
-      <link>https://jiangyong.site/authors/yang-zhou/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yang-zhou/</guid>
       <description></description>
     </item>
     
@@ -97,6 +209,14 @@
       <link>https://jiangyong.site/authors/hao-peng/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/hao-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun Mei**</title>
+      <link>https://jiangyong.site/authors/jun-mei/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/jun-mei/</guid>
       <description></description>
     </item>
     
@@ -119,7 +239,7 @@
     <item>
       <title>Jiang Yong</title>
       <link>https://jiangyong.site/authors/jiang-yong/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/jiang-yong/</guid>
       <description></description>
     </item>
@@ -129,11 +249,23 @@
       <link>https://jiangyong.site/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I currently work at &lt;a href=&#34;https://damo.alibaba.com/&#34; target=&#34;_blank&#34;&gt;Alibaba DAMO Academy&lt;/a&gt;. I received my Ph.D from the joint program of ShanghaiTech University and University of Chinese Academy of Sciences. I was very fortunate to be advised by &lt;a href=&#34;http://sist.shanghaitech.edu.cn/faculty/tukw/&#34; target=&#34;_blank&#34;&gt;Prof. Kewei Tu&lt;/a&gt;. I am interested in machine learning and natural language processing.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I currently work at &lt;a href=&#34;https://damo.alibaba.com/&#34; target=&#34;_blank&#34;&gt;Alibaba DAMO Academy&lt;/a&gt;. I received my Ph.D from the joint program of ShanghaiTech University and University of Chinese Academy of Sciences. I was very fortunate to be advised by &lt;a href=&#34;http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/&#34; target=&#34;_blank&#34;&gt;Prof. Kewei Tu&lt;/a&gt;. I am interested in machine learning and natural language processing.&lt;/p&gt;
 
-&lt;p&gt;My current research mainly focuses on multilingual NLP. In my PhD time, I mainly worked on learning latent variable models for NLP problems and ML problems.&lt;/p&gt;
+&lt;p&gt;My current research mainly focuses on entity-related tasks, language model pretraining, multilingual NLP, structured prediction and so on. In my PhD time, I mainly worked on learning latent variable models for NLP problems and ML problems.&lt;/p&gt;
 
-&lt;p&gt;We have some research intern positions available in &lt;a href=&#34;https://damo.alibaba.com/&#34; target=&#34;_blank&#34;&gt;Alibaba DAMO Academy&lt;/a&gt;. If you are interested in NLP and ML, please feel free to contact me: jiangyong.ml@@gmail.com.&lt;/p&gt;
+&lt;p&gt;Spotlight of our recent work:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Knowledge distillation for learning multilingual models: &lt;a href=&#34;https://arxiv.org/abs/2004.03846&#34; target=&#34;_blank&#34;&gt;structure-level KD&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2010.05010&#34; target=&#34;_blank&#34;&gt;structural KD&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Improving sequence labeling methods: &lt;a href=&#34;https://arxiv.org/abs/2011.05604&#34; target=&#34;_blank&#34;&gt;designing powerful potential functions&lt;/a&gt;, &lt;a href=&#34;https://openreview.net/pdf?id=ZrBZrf-BS3Z&#34; target=&#34;_blank&#34;&gt;speeding up CRF training &amp;amp; inference&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Leveraging source models to improve cross-lingual ability: &lt;a href=&#34;https://aclanthology.org/2021.acl-long.380/&#34; target=&#34;_blank&#34;&gt;risk minimization&lt;/a&gt;, &lt;a href=&#34;https://aclanthology.org/2021.acl-long.207/&#34; target=&#34;_blank&#34;&gt;multi-view learning&lt;/a&gt;, &lt;a href=&#34;https://aclanthology.org/2021.emnlp-main.338/&#34; target=&#34;_blank&#34;&gt;word reordering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Incorporating various kinds of knowledge to improve NER, sequence labeling and structured prediction: &lt;a href=&#34;https://arxiv.org/abs/2009.08330&#34; target=&#34;_blank&#34;&gt;embedding combination&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2010.05006&#34; target=&#34;_blank&#34;&gt;ACE&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2105.03654&#34; target=&#34;_blank&#34;&gt;retrieval guided learning&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Unsupervised grammar induction: &lt;a href=&#34;https://aclanthology.org/D16-1073/&#34; target=&#34;_blank&#34;&gt;the first neural-based unsupervised parser&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1708.01018&#34; target=&#34;_blank&#34;&gt;discriminative autoencoder&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2010.14720&#34; target=&#34;_blank&#34;&gt;2nd order parsing&lt;/a&gt;, &lt;a href=&#34;https://github.com/tukw/unsupervised-parsing-tutorial&#34; target=&#34;_blank&#34;&gt;EACL tutorial&lt;/a&gt; and &lt;a href=&#34;https://www.aclweb.org/anthology/2020.acl-main.300/&#34; target=&#34;_blank&#34;&gt;empirical study&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Multi-view learning for &lt;a href=&#34;https://arxiv.org/abs/2105.03654&#34; target=&#34;_blank&#34;&gt;NER&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2109.05716&#34; target=&#34;_blank&#34;&gt;entity linking&lt;/a&gt; and &lt;a href=&#34;https://aclanthology.org/2021.acl-long.207/&#34; target=&#34;_blank&#34;&gt;cross-lingual learning&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Fun with KL divergence: &lt;a href=&#34;https://aclanthology.org/2021.acl-long.207/&#34; target=&#34;_blank&#34;&gt;KL(p(*|a, b, c) || p(*|d, e))&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2004.03846&#34; target=&#34;_blank&#34;&gt;KL(P || p)&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/2010.05010&#34; target=&#34;_blank&#34;&gt;KL(p || q)&lt;/a&gt;, &lt;a href=&#34;https://openreview.net/pdf?id=ZrBZrf-BS3Z&#34; target=&#34;_blank&#34;&gt;KL(tractable || intractable?)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We have some research intern positions available in &lt;a href=&#34;https://damo.alibaba.com/&#34; target=&#34;_blank&#34;&gt;Alibaba DAMO Academy&lt;/a&gt;. If you are interested in NLP and ML, please feel free to contact me: jiangyong.ml@gmail.com.&lt;/p&gt;
 </description>
     </item>
     
