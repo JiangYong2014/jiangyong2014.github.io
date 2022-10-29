@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/categories/structured-prediction/</link>
       <atom:link href="https://jiangyong.site/categories/structured-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Structured Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Structured Prediction</title>
@@ -13,42 +13,10 @@
     </image>
     
     <item>
-      <title>Word Reordering for Zero-shot Cross-lingual Structured Prediction</title>
-      <link>https://jiangyong.site/publication/ji-etal-2021-reordering/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/ji-etal-2021-reordering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>
       <link>https://jiangyong.site/publication/wang-etal-2021-ace/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/wang-etal-2021-ace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
-      <link>https://jiangyong.site/publication/wang-etal-2021-structured/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wang-etal-2021-structured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Attack and Defense of Structured Prediction Models</title>
-      <link>https://jiangyong.site/publication/han-etal-2020-adversarial/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-etal-2020-adversarial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-supervised Structured Prediction with Neural CRF Autoencoder</title>
-      <link>https://jiangyong.site/publication/zhang-2017-semi/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/zhang-2017-semi/</guid>
       <description></description>
     </item>
     

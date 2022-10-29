@@ -13,66 +13,10 @@
     </image>
     
     <item>
-      <title>A Survey of Unsupervised Dependency Parsing</title>
-      <link>https://jiangyong.site/publication/han-etal-2020-survey/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-etal-2020-survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Second Order Unsupervised Neural Dependency Parsing</title>
       <link>https://jiangyong.site/publication/yang-2020-2nd-udp/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/yang-2020-2nd-udp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Attack and Defense of Structured Prediction Models</title>
-      <link>https://jiangyong.site/publication/han-etal-2020-adversarial/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-etal-2020-adversarial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Regularization-Based Framework for Bilingual Grammar Induction</title>
-      <link>https://jiangyong.site/publication/jiang-2019-regularization/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2019-regularization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lexicalized Neural Unsupervised Dependency Parsing</title>
-      <link>https://jiangyong.site/publication/han-2019-lexicalized/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-2019-lexicalized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multilingual Grammar Induction with Continuous Language Identification</title>
-      <link>https://jiangyong.site/publication/han-2019-multilingual/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-2019-multilingual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition</title>
-      <link>https://jiangyong.site/publication/jiang-2017-combining/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2017-combining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dependency Grammar Induction with Neural Lexicalization and Big Training Data</title>
-      <link>https://jiangyong.site/publication/han-2017-dependency/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-2017-dependency/</guid>
       <description></description>
     </item>
     

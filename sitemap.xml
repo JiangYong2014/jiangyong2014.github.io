@@ -4,24 +4,161 @@
   
   <url>
     <loc>https://jiangyong.site/publication_types/1/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jiangyong.site/publication/ji-etal-2021-transition/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/authors/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jiangyong.site/categories/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/chengyue-jiang/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/entity-typing/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/graphical-model/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/kewei-tu/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/jiang-2022-npcrf/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/ner/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/pengjun-xie/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication_types/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/weiqi-wu/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yong-jiang/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/publication/wang-etal-2022-semeval/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/fei-huang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/jiong-cai/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/multi-lingual-nlp/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/categories/sequence-labeling/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/tao-wang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/wei-lu/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/weiming-lu/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/xiaobin-wang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/xinyu-wang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yongliang-shen/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangyong.site/authors/yueting-zhuang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -32,20 +169,8 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/fei-huang/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/publication/ma-etal-2021-muver/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/multi-lingual-nlp/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -55,78 +180,7 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/categories/parsing/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication_types/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/structured-prediction/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/tao-ji/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/tao-wang/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/weiming-lu/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/ji-etal-2021-reordering/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/xiaoling-wang/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/authors/xinyin-ma/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/yong-jiang/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/yuanbin-wu/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -142,40 +196,12 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/kewei-tu/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/publication/hu-2021-multiview/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jiangyong.site/categories/ner/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/hu-2021-riskmin/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/sequence-labeling/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/wang-etal-2021-structured/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/xinyu-wang/</loc>
+    <loc>https://jiangyong.site/categories/structured-prediction/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -199,18 +225,13 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/publication/han-etal-2020-survey/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/categories/grammar-induction/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jiangyong.site/authors/hwee-tou-ng/</loc>
+    <loc>https://jiangyong.site/categories/parsing/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -233,117 +254,8 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/publication/wang-etal-2020-fastseq/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/han-etal-2020-adversarial/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/hu-2020-empirical/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/liwen-zhang/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/wang-etal-2020-combembed/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/reinforcement-learning/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/li-etal-2020-empirical/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/jiong-cai/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/jun-li/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jiangyong.site/publication/wang-etal-2020-structure/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/yifan-cao/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/jiang-2019-regularization/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/yuan-2019-bidirectional/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/wenjuan-2019-enhancing/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/ge-wang/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/latent-variable-model/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/han-2019-lexicalized/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/han-2019-multilingual/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/jiang-2019-robust/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/wenjuan-han-yong-jiang-kewei-tu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/yunzhe-yuan/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -352,62 +264,7 @@
   </url>
   
   <url>
-    <loc>https://jiangyong.site/publication/jiang-2017-combining/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/dan-goldwasser/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/han-2017-dependency/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/hao-peng/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/jun-mei/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/chu-2017-latent/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/mei-2017-maximum/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/categories/probabilistic-modeling/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/publication/zhang-2017-semi/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/shanbo-chu/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiangyong.site/authors/xiao-zhang/</loc>
+    <loc>https://jiangyong.site/categories/latent-variable-model/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

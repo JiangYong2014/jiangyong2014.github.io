@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengyue Jiang** | Yong Jiang</title>
+    <link>https://jiangyong.site/authors/chengyue-jiang/</link>
+      <atom:link href="https://jiangyong.site/authors/chengyue-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengyue Jiang**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jiangyong.site/img/icon-192.png</url>
+      <title>Chengyue Jiang**</title>
+      <link>https://jiangyong.site/authors/chengyue-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field</title>
+      <link>https://jiangyong.site/publication/jiang-2022-npcrf/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/jiang-2022-npcrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

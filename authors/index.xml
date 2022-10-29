@@ -5,7 +5,7 @@
     <link>https://jiangyong.site/authors/</link>
       <atom:link href="https://jiangyong.site/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,114 @@
     </image>
     
     <item>
+      <title>Chengyue Jiang**</title>
+      <link>https://jiangyong.site/authors/chengyue-jiang/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/chengyue-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kewei Tu</title>
+      <link>https://jiangyong.site/authors/kewei-tu/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengjun Xie</title>
+      <link>https://jiangyong.site/authors/pengjun-xie/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/pengjun-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiqi Wu</title>
+      <link>https://jiangyong.site/authors/weiqi-wu/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/weiqi-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Jiang</title>
+      <link>https://jiangyong.site/authors/yong-jiang/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fei Huang</title>
       <link>https://jiangyong.site/authors/fei-huang/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/fei-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiong Cai</title>
+      <link>https://jiangyong.site/authors/jiong-cai/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/jiong-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Wang</title>
+      <link>https://jiangyong.site/authors/tao-wang/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/tao-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Lu</title>
+      <link>https://jiangyong.site/authors/wei-lu/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/wei-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiming Lu</title>
+      <link>https://jiangyong.site/authors/weiming-lu/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/weiming-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaobin Wang</title>
+      <link>https://jiangyong.site/authors/xiaobin-wang/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xiaobin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyu Wang**</title>
+      <link>https://jiangyong.site/authors/xinyu-wang/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/xinyu-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongliang Shen</title>
+      <link>https://jiangyong.site/authors/yongliang-shen/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yongliang-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yueting Zhuang</title>
+      <link>https://jiangyong.site/authors/yueting-zhuang/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/authors/yueting-zhuang/</guid>
       <description></description>
     </item>
     
@@ -29,74 +133,10 @@
     </item>
     
     <item>
-      <title>Tao Ji**</title>
-      <link>https://jiangyong.site/authors/tao-ji/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/tao-ji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tao Wang</title>
-      <link>https://jiangyong.site/authors/tao-wang/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/tao-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weiming Lu</title>
-      <link>https://jiangyong.site/authors/weiming-lu/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/weiming-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaoling Wang</title>
-      <link>https://jiangyong.site/authors/xiaoling-wang/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/xiaoling-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xinyin Ma**</title>
       <link>https://jiangyong.site/authors/xinyin-ma/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/xinyin-ma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yong Jiang</title>
-      <link>https://jiangyong.site/authors/yong-jiang/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yong-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuanbin Wu</title>
-      <link>https://jiangyong.site/authors/yuanbin-wu/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yuanbin-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kewei Tu</title>
-      <link>https://jiangyong.site/authors/kewei-tu/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/kewei-tu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinyu Wang**</title>
-      <link>https://jiangyong.site/authors/xinyu-wang/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/xinyu-wang/</guid>
       <description></description>
     </item>
     
@@ -117,14 +157,6 @@
     </item>
     
     <item>
-      <title>Hwee Tou Ng</title>
-      <link>https://jiangyong.site/authors/hwee-tou-ng/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/hwee-tou-ng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Songlin Yang**</title>
       <link>https://jiangyong.site/authors/songlin-yang/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -137,102 +169,6 @@
       <link>https://jiangyong.site/authors/wenjuan-han/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/authors/wenjuan-han/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liwen Zhang*</title>
-      <link>https://jiangyong.site/authors/liwen-zhang/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/liwen-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiong Cai</title>
-      <link>https://jiangyong.site/authors/jiong-cai/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/jiong-cai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jun Li**</title>
-      <link>https://jiangyong.site/authors/jun-li/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/jun-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yifan Cao</title>
-      <link>https://jiangyong.site/authors/yifan-cao/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yifan-cao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ge Wang</title>
-      <link>https://jiangyong.site/authors/ge-wang/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/ge-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenjuan Han, Yong Jiang, Kewei Tu</title>
-      <link>https://jiangyong.site/authors/wenjuan-han-yong-jiang-kewei-tu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/wenjuan-han-yong-jiang-kewei-tu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yunzhe Yuan**</title>
-      <link>https://jiangyong.site/authors/yunzhe-yuan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/yunzhe-yuan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan Goldwasser</title>
-      <link>https://jiangyong.site/authors/dan-goldwasser/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/dan-goldwasser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hao Peng</title>
-      <link>https://jiangyong.site/authors/hao-peng/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/hao-peng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jun Mei**</title>
-      <link>https://jiangyong.site/authors/jun-mei/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/jun-mei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shanbo Chu</title>
-      <link>https://jiangyong.site/authors/shanbo-chu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/shanbo-chu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiao Zhang</title>
-      <link>https://jiangyong.site/authors/xiao-zhang/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/authors/xiao-zhang/</guid>
       <description></description>
     </item>
     

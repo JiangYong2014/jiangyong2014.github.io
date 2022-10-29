@@ -5,12 +5,20 @@
     <link>https://jiangyong.site/authors/xinyu-wang/</link>
       <atom:link href="https://jiangyong.site/authors/xinyu-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyu Wang**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jiangyong.site/img/icon-192.png</url>
       <title>Xinyu Wang**</title>
       <link>https://jiangyong.site/authors/xinyu-wang/</link>
     </image>
+    
+    <item>
+      <title>DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition</title>
+      <link>https://jiangyong.site/publication/wang-etal-2022-semeval/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jiangyong.site/publication/wang-etal-2022-semeval/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>
@@ -25,30 +33,6 @@
       <link>https://jiangyong.site/publication/wang-etal-2021-retrieval/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jiangyong.site/publication/wang-etal-2021-retrieval/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
-      <link>https://jiangyong.site/publication/wang-etal-2021-structured/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wang-etal-2021-structured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network</title>
-      <link>https://jiangyong.site/publication/wang-etal-2020-fastseq/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wang-etal-2020-fastseq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>More Embeddings, Better Sequence Labelers?</title>
-      <link>https://jiangyong.site/publication/wang-etal-2020-combembed/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wang-etal-2020-combembed/</guid>
       <description></description>
     </item>
     

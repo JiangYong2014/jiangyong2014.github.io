@@ -20,45 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Bidirectional Transition-Based Dependency Parsing</title>
-      <link>https://jiangyong.site/publication/yuan-2019-bidirectional/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/yuan-2019-bidirectional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enhancing Unsupervised Generative Dependency Parser with Contextual Information</title>
-      <link>https://jiangyong.site/publication/wenjuan-2019-enhancing/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/wenjuan-2019-enhancing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lexicalized Neural Unsupervised Dependency Parsing</title>
-      <link>https://jiangyong.site/publication/han-2019-lexicalized/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/han-2019-lexicalized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust unsupervised discriminative dependency parsing</title>
-      <link>https://jiangyong.site/publication/jiang-2019-robust/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/jiang-2019-robust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maximum A Posteriori Inference in Sum-Product Networks</title>
-      <link>https://jiangyong.site/publication/mei-2017-maximum/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jiangyong.site/publication/mei-2017-maximum/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
