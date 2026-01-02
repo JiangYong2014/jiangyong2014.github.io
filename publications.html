@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - Yong Jiang</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-900">
+    <!-- Navigation Bar -->
+    <nav class="sticky top-0 bg-white border-b border-gray-200 z-10">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex space-x-8 py-4">
+                <a href="index.html" class="text-gray-700 hover:text-blue-600 transition">← Back to Home</a>
+                <a href="index.html#bio" class="text-gray-700 hover:text-blue-600 transition">Bio</a>
+                <a href="index.html#research" class="text-gray-700 hover:text-blue-600 transition">Research</a>
+                <a href="publications.html" class="text-blue-600 font-semibold">Publications</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h1 class="text-4xl font-bold mb-4">Publications</h1>
+        <p class="text-gray-600 mb-8">
+            Complete list of publications. For citation information, please visit my
+            <a href="https://scholar.google.com/citations?user=sxXZWQQAAAAJ" target="_blank" class="text-blue-600 hover:underline">Google Scholar</a> profile.
+        </p>
+
+        <div id="all-publications-container">
+            <!-- All publications will be loaded here by JavaScript -->
+            <p class="text-gray-500 text-center py-8">Loading publications...</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="border-t border-gray-200 pt-6 mt-12 text-center text-gray-500 text-sm">
+            <p>&copy; 2025 Yong Jiang. Last updated: January 2025.</p>
+        </footer>
+    </div>
+
+    <!-- Load and render all publications from JSON -->
+    <script>
+        function renderPublications(papers) {
+            return papers.map(paper => {
+                // Authors with bold self author
+                const authorsText = paper.authors.map(author => {
+                    if (author === paper.selfAuthor) {
+                        return `<span class="font-semibold">${author}</span>`;
+                    }
+                    return author;
+                }).join(', ');
+
+                // Award badge
+                const awardHtml = paper.award ?
+                    `<span class="ml-2 text-red-600 font-semibold">🏆 ${paper.award}</span>` : '';
+
+                // Links
+                const linksHtml = paper.links && paper.links.length > 0 ?
+                    `<div class="flex space-x-3 text-sm mt-2">
+                        ${paper.links.map(link =>
+                            `<a href="${link.url}" class="text-blue-600 hover:underline" target="_blank">[${link.text}]</a>`
+                        ).join('')}
+                    </div>` : '';
+
+                return `
+                    <div class="publication">
+                        <p class="text-gray-800 mb-1">
+                            <span class="font-semibold">${paper.title}</span>
+                        </p>
+                        <p class="text-gray-600 text-sm mb-2">${authorsText}</p>
+                        <p class="text-gray-600 text-sm mb-2">
+                            <em>${paper.venue}</em>${awardHtml}
+                        </p>
+                        ${linksHtml}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Load all publications
+        fetch('publications.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('all-publications-container');
+                container.innerHTML = ''; // Clear loading message
+
+                // Sort publications by year (descending)
+                const sortedPublications = data.publications.sort((a, b) => b.year - a.year);
+
+                sortedPublications.forEach(yearGroup => {
+                    // Create year section
+                    const yearSection = `
+                        <div class="mb-8">
+                            <h2 class="text-2xl font-semibold mb-4 text-gray-800 border-b pb-2">${yearGroup.year}</h2>
+                            <div class="space-y-6">
+                                ${renderPublications(yearGroup.papers)}
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += yearSection;
+                });
+            })
+            .catch(error => {
+                console.error('Error loading publications:', error);
+                document.getElementById('all-publications-container').innerHTML =
+                    '<p class="text-red-600 text-center py-8">Failed to load publications. Please check the console for details.</p>';
+            });
+    </script>
+
+    <!-- Smooth scrolling -->
+    <script>
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

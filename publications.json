@@ -1,0 +1,832 @@
+{
+  "publications": [
+    {
+      "year": 2025,
+      "papers": [
+        {
+          "title": "Tongyi DeepResearch Technical Report",
+          "authors": ["Baixuan Li", "Bo Zhang", "Dingchu Zhang", "Fei Huang", "Guangyu Li", "Guoxin Chen", "Huifeng Yin", "Jialong Wu", "Jingren Zhou", "Kuan Li", "Liangcai Su", "Litu Ou", "Liwen Zhang", "Pengjun Xie", "Rui Ye", "Wenbiao Yin", "Xinmiao Yu", "Xinyu Wang", "Xixi Wu", "Xuanzhong Chen", "Yida Zhao", "Zhen Zhang", "Zhengwei Tao", "Zhongwang Zhang", "Zile Qiao", "Chenxi Wang", "Donglei Yu", "Gang Fu", "Haiyang Shen", "Jiayin Yang", "Jun Lin", "Junkai Zhang", "Kui Zeng", "Li Yang", "Hailong Yin", "Maojia Song", "Ming Yan", "Minpeng Liao", "Peng Xia", "Qian Xiao", "Rui Min", "Ruixue Ding", "Runnan Fang", "Shaowei Chen", "Shen Huang", "Shihang Wang", "Shihao Cai", "Weizhou Shen", "Xiaobin Wang", "Xin Guan", "Xinyu Geng", "Yingcheng Shi", "Yuning Wu", "Zhuo Chen", "Zijian Li", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Technical Report 2025",
+          "featured": true,
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24701"},
+            {"text": "GitHub", "url": "https://github.com/Alibaba-NLP/DeepResearch"}
+          ]
+        },        
+        {
+          "title": "Webleaper: Empowering efficiency and efficacy in webagent via enabling info-rich seeking",
+          "authors": ["Zhengwei Tao", "Haiyang Shen", "Baixuan Li", "Wenbiao Yin", "Jialong Wu", "Kuan Li", "Zhongwang Zhang", "Huifeng Yin", "Rui Ye", "Liwen Zhang", "Xinyu Wang", "Pengjun Xie", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24697"}
+          ]
+        },
+        {
+          "title": "Browseconf: Confidence-guided test-time scaling for web agents",
+          "authors": ["Litu Ou", "Kuan Li", "Huifeng Yin", "Liwen Zhang", "Zhongwang Zhang", "Xixi Wu", "Rui Ye", "Zile Qiao", "Pengjun Xie", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.23458"}
+          ]
+        },
+        {
+          "title": "EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce",
+          "authors": ["Rui Min", "Zile Qiao", "Ze Xu", "Jiawen Zhai", "Wenyu Gao", "Xuanzhong Chen", "Haozhen Sun", "Zhen Zhang", "Xinyu Wang", "Hong Zhou", "Wenbiao Yin", "Xuan Zhou", "Yong Jiang", "Haicheng Liu", "Liang Ding", "Ling Zou", "Yalong Li", "Pengjun Xie"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2512.08868"}
+          ]
+        },
+        {
+          "title": "IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction",
+          "authors": ["Guoxin Chen", "Zile Qiao", "Xuanzhong Chen", "Donglei Yu", "Haotian Xu", "Wayne Xin Zhao", "Ruihua Song", "Wenbiao Yin", "Huifeng Yin", "Liwen Zhang", "Kuan Li", "Minpeng Liao", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2511.07327"}
+          ]
+        },
+        {
+          "title": "Repurposing Synthetic Data for Fine-grained Search Agent Supervision",
+          "authors": ["Yida Zhao", "Kuan Li", "Xixi Wu", "Liwen Zhang", "Dingchu Zhang", "Baixuan Li", "Maojia Song", "Zhuo Chen", "Chenxi Wang", "Xinyu Wang", "Kewei Tu", "Pengjun Xie", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24694"}
+          ]
+        },
+        {
+          "title": "ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking",
+          "authors": ["Baixuan Li", "Dingchu Zhang", "Jialong Wu", "Wenbiao Yin", "Zhengwei Tao", "Yida Zhao", "Liwen Zhang", "Haiyang Shen", "Runnan Fang", "Pengjun Xie", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24698"}
+          ]
+        },
+        {
+          "title": "AgentFold: Long-Horizon Web Agents with Proactive Context Management",
+          "authors": ["Rui Ye", "Zhongwang Zhang", "Kuan Li", "Huifeng Yin", "Zhengwei Tao", "Yida Zhao", "Liangcai Su", "Liwen Zhang", "Zile Qiao", "Xinyu Wang", "Pengjun Xie", "Fei Huang", "Siheng Chen", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24699"}
+          ]
+        },
+        {
+          "title": "AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis",
+          "authors": ["Xuanzhong Chen", "Zile Qiao", "Guoxin Chen", "Liangcai Su", "Zhen Zhang", "Xinyu Wang", "Pengjun Xie", "Fei Huang", "Jingren Zhou", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2510.24695"}
+          ]
+        },
+        {
+          "title": "Scaling Agents via Continual Pre-training",
+          "authors": ["Liangcai Su", "Zhen Zhang", "Guangyu Li", "Zhuo Chen", "Chenxi Wang", "Maojia Song", "Xinyu Wang", "Kuan Li", "Jialong Wu", "Xuanzhong Chen", "Zile Qiao", "Zhongwang Zhang", "Huifeng Yin", "Shihao Cai", "Runnan Fang", "Zhengwei Tao", "Wenbiao Yin", "Chenxiong Qian", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.XXXXX"}
+          ]
+        },
+        {
+          "title": "Towards General Agentic Intelligence via Environment Scaling",
+          "authors": ["Runnan Fang", "Shihao Cai", "Baixuan Li", "Jialong Wu", "Guangyu Li", "Wenbiao Yin", "Xinyu Wang", "Xiaobin Wang", "Liangcai Su", "Zhen Zhang", "Shibin Wu", "Zhengwei Tao", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.XXXXX"}
+          ]
+        },
+        {
+          "title": "WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning",
+          "authors": ["Kuan Li", "Zhongwang Zhang", "Huifeng Yin", "Rui Ye", "Yida Zhao", "Liwen Zhang", "Litu Ou", "Dingchu Zhang", "Xixi Wu", "Jialong Wu", "Xinyu Wang", "Zile Qiao", "Zhen Zhang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.13305"},
+            {"text": "GitHub", "url": "https://github.com/Alibaba-NLP/DeepResearch"}
+          ]          
+        },
+        {
+          "title": "WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research",
+          "authors": ["Zijian Li", "Xin Guan", "Bo Zhang", "Shen Huang", "Houquan Zhou", "Shaopeng Lai", "Ming Yan", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jun Zhang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.13312"}
+          ]
+        },
+        {
+          "title": "WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents",
+          "authors": ["Zile Qiao", "Guoxin Chen", "Xuanzhong Chen", "Donglei Yu", "Wenbiao Yin", "Xinyu Wang", "Zhen Zhang", "Baixuan Li", "Huifeng Yin", "Kuan Li", "Rui Min", "Minpeng Liao", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.13309"}
+          ]
+        },
+        {
+          "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+          "authors": ["Xixi Wu", "Kuan Li", "Yida Zhao", "Liwen Zhang", "Litu Ou", "Huifeng Yin", "Zhongwang Zhang", "Xinmiao Yu", "Dingchu Zhang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Minhao Cheng", "Shuai Wang", "Hong Cheng", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2509.13313"}
+          ]
+        },
+        {
+          "title": "WebWatcher: Breaking new frontiers of vision-language deep research agent",
+          "authors": ["Xinyu Geng", "Peng Xia", "Zhen Zhang", "Xinyu Wang", "Qiuchen Wang", "Ruixue Ding", "Chenxi Wang", "Jialong Wu", "Yida Zhao", "Kuan Li", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2508.05748"}
+          ]
+        },
+        {
+          "title": "WebShaper: Agentically data synthesizing via information-seeking formalization",
+          "authors": ["Zhengwei Tao", "Jialong Wu", "Wenbiao Yin", "Junkai Zhang", "Baixuan Li", "Haiyang Shen", "Kuan Li", "Liwen Zhang", "Xinyu Wang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2507.15061"}
+          ]
+        },
+        {
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent",
+          "authors": ["Kuan Li", "Zhongwang Zhang", "Huifeng Yin", "Liwen Zhang", "Litu Ou", "Jialong Wu", "Wenbiao Yin", "Baixuan Li", "Zhengwei Tao", "Xinyu Wang", "Weizhou Shen", "Junkai Zhang", "Dingchu Zhang", "Xixi Wu", "Yong Jiang", "Ming Yan", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "featured": true,
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2507.02592"},
+            {"text": "GitHub", "url": "https://github.com/Alibaba-NLP/DeepResearch"}
+          ]
+        },
+        {
+          "title": "WebDancer: Towards Autonomous Information Seeking Agency",
+          "authors": ["Jialong Wu", "Baixuan Li", "Runnan Fang", "Wenbiao Yin", "Liwen Zhang", "Zhengwei Tao", "Dingchu Zhang", "Zekun Xi", "Gang Fu", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Neural Information Processing Systems (NeurIPS 2025)",
+          "featured": false,
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2505.22648"}
+          ]
+        },
+        {
+          "title": "MaskSearch: A Universal Pre-Training Framework to Enhance Agentic Search Capability",
+          "authors": ["Weiqi Wu", "Xin Guan", "Shen Huang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Jiuxin Cao", "Hai Zhao", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "arXiv Preprint 2025",
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2505.20285"}
+          ]
+        },
+        {
+          "title": "ZeroSearch: Incentivize the search capability of llms without searching",
+          "authors": ["Yong Jiang", "et al."],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Preprint 2025",
+          "links": []
+        },
+        {
+          "title": "LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs–No Silver Bullet for LC or RAG Routing",
+          "authors": ["Kuan Li", "Liwen Zhang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Shuai Wang", "Minhao Cheng"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Machine Learning (ICML 2025)",
+          "featured": false,
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2502.09977"}
+          ]
+        },
+        {
+          "title": "Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent",
+          "authors": ["Yangning Li", "Yinghui Li", "Xingyu Wang", "Yong Jiang", "Zhen Zhang", "Xinran Zheng", "Hui Wang", "Hai-Tao Zheng", "Philip S Yu", "Fei Huang", "Jingren Zhou"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Learning Representations (ICLR 2025)",
+          "featured": false,
+          "links": [
+            {"text": "PDF", "url": "https://arxiv.org/pdf/2411.02937"}
+          ]
+        },
+        {
+          "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+          "authors": ["Jialong Wu", "Wenbiao Yin", "Yong Jiang", "Zhenglin Wang", "Zekun Xi", "Runnan Fang", "Linhai Zhang", "Yulan He", "Deyu Zhou", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.acl-long.1.pdf"}
+          ]
+        },
+        {
+          "title": "Agentic Knowledgeable Self-awareness",
+          "authors": ["Shuofei Qiao", "Zhisong Qiu", "Baochang Ren", "Xiaobin Wang", "Xiangyuan Ru", "Ningyu Zhang", "Xiang Chen", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Huajun Chen"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.acl-long.2.pdf"}
+          ]
+        },
+        {
+          "title": "SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement",
+          "authors": ["Runnan Fang", "Xiaobin Wang", "Yuan Liang", "Shuofei Qiao", "Jialong Wu", "Zekun Xi", "Ningyu Zhang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Huajun Chen"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2025, Short Papers)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.acl-short.1.pdf"}
+          ]
+        },
+        {
+          "title": "Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark",
+          "authors": ["Zhikun Xu", "Yinghui Li", "Ruixue Ding", "Xinyu Wang", "Boli Chen", "Yong Jiang", "Haitao Zheng", "Wenlian Lu", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Computational Linguistics (COLING 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.coling-1.1.pdf"}
+          ]
+        },
+        {
+          "title": "OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking",
+          "authors": ["Zekun Xi", "Wenbiao Yin", "Jizhan Fang", "Jialong Wu", "Runnan Fang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Huajun Chen", "Ningyu Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.emnlp-1.1.pdf"}
+          ]
+        },
+        {
+          "title": "DecoupleSearch: Decouple Planning and Search via Hierarchical Reward Modeling",
+          "authors": ["Hao Sun", "Zile Qiao", "Bo Wang", "Guoxin Chen", "Yingyan Hou", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Yan Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.emnlp-2.pdf"}
+          ]
+        },
+        {
+          "title": "EvolveSearch: An Iterative Self-Evolving Search Agent",
+          "authors": ["Ding-Chu Zhang", "Yida Zhao", "Jialong Wu", "Liwen Zhang", "Baixuan Li", "Wenbiao Yin", "Yong Jiang", "Yu-Feng Li", "Kewei Tu", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.emnlp-3.pdf"}
+          ]
+        },
+        {
+          "title": "Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based Inference",
+          "authors": ["Zhuo Chen", "Xinyu Wang", "Yong Jiang", "Zhen Zhang", "Xinyu Geng", "Pengjun Xie", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.emnlp-4.pdf"}
+          ]
+        },
+        {
+          "title": "ProductAgent: Benchmarking Conversational Product Search Agent with Asking Clarification Questions",
+          "authors": ["Jingheng Ye", "Yong Jiang", "Xiaobin Wang", "Yinghui Li", "Yangning Li", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2025, Industry Track)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.emnlp-industry.1.pdf"}
+          ]
+        },
+        {
+          "title": "Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling",
+          "authors": ["Zile Qiao", "Wei Ye", "Yong Jiang", "Tong Mo", "Pengjun Xie", "Weiping Li", "Fei Huang", "Shikun Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (NAACL 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.findings-naacl.1.pdf"}
+          ]
+        },
+        {
+          "title": "Unfolding the Headline: Iterative Self-Questioning for News Retrieval and Timeline Summarization",
+          "authors": ["Weiqi Wu", "Shen Huang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Hai Zhao"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (NAACL 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.findings-naacl.2.pdf"}
+          ]
+        },
+        {
+          "title": "KBM: Delineating Knowledge Boundary for Adaptive Retrieval in Large Language Models",
+          "authors": ["Zhen Zhang", "Xinyu Wang", "Yong Jiang", "Zile Qiao", "Zhuo Chen", "Guangyu Li", "Feiteng Mu", "Mengting Hu", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2025)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2025.findings-emnlp.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "papers": [
+        {
+          "title": "SeqGPT: An Out-of-the-box Large Language Model for Open Domain Sequence Understanding",
+          "authors": ["Yong Jiang", "et al."],
+          "selfAuthor": "Yong Jiang",
+          "venue": "AAAI Conference on Artificial Intelligence (AAAI 2024)",
+          "links": []
+        },
+        {
+          "title": "EcomGPT: Instruction-tuning Large Language Model with Chain-of-Task Tasks for E-commerce",
+          "authors": ["Yong Jiang", "et al."],
+          "selfAuthor": "Yong Jiang",
+          "venue": "AAAI Conference on Artificial Intelligence (AAAI 2024)",
+          "links": []
+        },
+        {
+          "title": "Towards Real-World Writing Assistance: A Chinese Character Checking Benchmark with Faked and Misspelled Characters",
+          "authors": ["Yinghui Li", "Zishan Xu", "Shaoshen Chen", "Haojing Huang", "Yangning Li", "Shirong Ma", "Yong Jiang", "Zhongli Li", "Qingyu Zhou", "Hai-Tao Zheng", "Ying Shen"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.acl-long.2.pdf"}
+          ]
+        },
+        {
+          "title": "Effective Demonstration Annotation for In-Context Learning via Language Model-Based Determinantal Point Process",
+          "authors": ["Peng Wang", "Xiaobin Wang", "Chao Lou", "Shengyu Mao", "Pengjun Xie", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Retrieved In-Context Principles from Previous Mistakes",
+          "authors": ["Hao Sun", "Yong Jiang", "Bo Wang", "Yingyan Hou", "Yan Zhang", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.emnlp-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts",
+          "authors": ["Zhuo Chen", "Xinyu Wang", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (ACL 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.findings-acl.2.pdf"}
+          ]
+        },
+        {
+          "title": "RaFe: Ranking Feedback Improves Query Rewriting for RAG",
+          "authors": ["Shengyu Mao", "Yong Jiang", "Boli Chen", "Xiao Li", "Peng Wang", "Xinyu Wang", "Pengjun Xie", "Fei Huang", "Huajun Chen", "Ningyu Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.findings-emnlp.1.pdf"}
+          ]
+        },
+        {
+          "title": "Knowledge Mechanisms in Large Language Models: A Survey and Perspective",
+          "authors": ["Mengru Wang", "Yunzhi Yao", "Ziwen Xu", "Shuofei Qiao", "Shumin Deng", "Peng Wang", "Xiang Chen", "Jia-Chen Gu", "Yong Jiang", "Pengjun Xie", "Fei Huang", "Huajun Chen", "Ningyu Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.findings-emnlp.2.pdf"}
+          ]
+        },
+        {
+          "title": "Query Routing for Homogeneous Tools: An Instantiation in the RAG Scenario",
+          "authors": ["Feiteng Mu", "Yong Jiang", "Liwen Zhang", "Chu Liu", "Wenjie Li", "Pengjun Xie", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.findings-emnlp.3.pdf"}
+          ]
+        },
+        {
+          "title": "Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning",
+          "authors": ["Xiao Li", "Yong Jiang", "Shen Huang", "Pengjun Xie", "Gong Cheng", "Fei Huang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "North American Chapter of the Association for Computational Linguistics (NAACL 2024)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2024.naacl-long.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "papers": [
+        {
+          "title": "Do PLMs Know and Understand Ontological Knowledge?",
+          "authors": ["Weiqi Wu", "Chengyue Jiang", "Yong Jiang", "Pengjun Xie", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2023)",
+          "award": "Outstanding Paper Award (39/1074)",
+          "featured": true,
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.acl-long.1.pdf"}
+          ]
+        },
+        {
+          "title": "MANNER: A Variational Memory-Augmented Model for Cross Domain Few-Shot Named Entity Recognition",
+          "authors": ["Jinyuan Fang", "Xiaobin Wang", "Zaiqiao Meng", "Pengjun Xie", "Fei Huang", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2023)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.acl-long.2.pdf"}
+          ]
+        },
+        {
+          "title": "Recall, Expand, and Multi-Candidate Cross-Encode: Fast and Accurate Ultra-Fine Entity Typing",
+          "authors": ["Chengyue Jiang", "Wenyang Hui", "Yong Jiang", "Xiaobin Wang", "Pengjun Xie", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2023)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.acl-long.3.pdf"}
+          ]
+        },
+        {
+          "title": "Improving Low-resource Named Entity Recognition with Graph Propagated Data Augmentation",
+          "authors": ["Jiong Cai", "Shen Huang", "Yong Jiang", "Zeqi Tan", "Pengjun Xie", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2023, Short Papers)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.acl-short.1.pdf"}
+          ]
+        },
+        {
+          "title": "COMBO: A Complete Benchmark for Open KG Canonicalization",
+          "authors": ["Chengyue Jiang", "Yong Jiang", "Weiqi Wu", "Yuting Zheng", "Pengjun Xie", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "European Chapter of the Association for Computational Linguistics (EACL 2023)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.eacl-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Entity-to-Text based Data Augmentation for various Named Entity Recognition Tasks",
+          "authors": ["Xuming Hu", "Yong Jiang", "Aiwei Liu", "Zhongqiang Huang", "Pengjun Xie", "Fei Huang", "Lijie Wen", "Philip S. Yu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (ACL 2023)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.findings-acl.1.pdf"}
+          ]
+        },
+        {
+          "title": "DAMO-NLP at SemEval-2023 Task 2: A Unified Retrieval-augmented System for Multilingual Named Entity Recognition",
+          "authors": ["Zeqi Tan", "Shen Huang", "Zixia Jia", "Jiong Cai", "Yinghui Li", "Weiming Lu", "Yueting Zhuang", "Kewei Tu", "Pengjun Xie", "Fei Huang", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "SemEval 2023",
+          "award": "Best System Paper Award",
+          "featured": true,
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2023.semeval-1.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "papers": [
+        {
+          "title": "Domain-Specific NER via Retrieving Correlated Samples",
+          "authors": ["Xin Zhang", "Yong Jiang", "Xiaobin Wang", "Xuming Hu", "Yueheng Sun", "Pengjun Xie", "Meishan Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Computational Linguistics (COLING 2022)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.coling-1.1.pdf"}
+          ]
+        },
+        {
+          "title": "Semantic Role Labeling as Dependency Parsing: Exploring Latent Tree Structures inside Arguments",
+          "authors": ["Yu Zhang", "Qingrong Xia", "Shilin Zhou", "Yong Jiang", "Guohong Fu", "Min Zhang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Computational Linguistics (COLING 2022)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.coling-1.2.pdf"}
+          ]
+        },
+        {
+          "title": "Modeling Label Correlations for Ultra-Fine Entity Typing with Neural Pairwise Conditional Random Field",
+          "authors": ["Chengyue Jiang", "Yong Jiang", "Weiqi Wu", "Pengjun Xie", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2022)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Named Entity and Relation Extraction with Multi-Modal Retrieval",
+          "authors": ["Xinyu Wang", "Jiong Cai", "Yong Jiang", "Pengjun Xie", "Kewei Tu", "Wei Lu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2022)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.findings-emnlp.1.pdf"}
+          ]
+        },
+        {
+          "title": "ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition",
+          "authors": ["Xinyu Wang", "Min Gui", "Yong Jiang", "Zixia Jia", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "North American Chapter of the Association for Computational Linguistics (NAACL 2022)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.naacl-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "DAMO-NLP at SemEval-2022 Task 11: A Knowledge-based System for Multilingual Named Entity Recognition",
+          "authors": ["Xinyu Wang", "Yongliang Shen", "Jiong Cai", "Tao Wang", "Xiaobin Wang", "Pengjun Xie", "Fei Huang", "Weiming Lu", "Yueting Zhuang", "Kewei Tu", "Wei Lu", "Yong Jiang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "SemEval 2022",
+          "featured": true,
+          "award": "Best System Paper Award",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2022.semeval-1.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "papers": [
+        {
+          "title": "Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Zhaohui Yan", "Zixia Jia", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.acl-long.1.pdf"}
+          ]
+        },
+        {
+          "title": "Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2021)",
+          "featured": true,
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.acl-long.2.pdf"}
+          ]
+        },
+        {
+          "title": "Automated Concatenation of Embeddings for Structured Prediction",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.acl-long.3.pdf"}
+          ]
+        },
+        {
+          "title": "Multi-View Cross-Lingual Structured Prediction with Minimum Supervision",
+          "authors": ["Zechuan Hu", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.acl-long.4.pdf"}
+          ]
+        },
+        {
+          "title": "Risk Minimization for Zero-shot Sequence Labeling",
+          "authors": ["Zechuan Hu", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.acl-long.7.pdf"}
+          ]
+        },
+        {
+          "title": "Unsupervised Natural Language Parsing (Introductory Tutorial)",
+          "authors": ["Kewei Tu", "Yong Jiang", "Wenjuan Han", "Yanpeng Zhao"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "European Chapter of the Association for Computational Linguistics (EACL 2021, Tutorial)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.eacl-tutorials.1.pdf"}
+          ]
+        },
+        {
+          "title": "MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations",
+          "authors": ["Xinyin Ma", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Weiming Lu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Word Reordering for Zero-shot Cross-lingual Structured Prediction",
+          "authors": ["Tao Ji", "Yong Jiang", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Yuanbin Wu", "Xiaoling Wang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.emnlp-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "A Unified Encoding of Structures in Transition Systems",
+          "authors": ["Tao Ji", "Yong Jiang", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Yuanbin Wu", "Xiaoling Wang"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.emnlp-main.3.pdf"}
+          ]
+        },
+        {
+          "title": "Generalized Supervised Attention for Text Generation",
+          "authors": ["Yixian Liu", "Liwen Zhang", "Xinyu Zhang", "Yong Jiang", "Yue Zhang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (ACL 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.findings-acl.1.pdf"}
+          ]
+        },
+        {
+          "title": "Enhanced Universal Dependency Parsing with Automated Concatenation of Embeddings",
+          "authors": ["Xinyu Wang", "Zixia Jia", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Parsing Technologies (IWPT 2021)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2021.iwpt-1.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "papers": [
+        {
+          "title": "An Empirical Comparison of Unsupervised Constituency Parsing Methods",
+          "authors": ["Jun Li", "Yifan Cao", "Jiong Cai", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.acl-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Structure-Level Knowledge Distillation For Multilingual Sequence Labeling",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.acl-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "A Survey of Unsupervised Dependency Parsing",
+          "authors": ["Wenjuan Han", "Yong Jiang", "Hwee Tou Ng", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Computational Linguistics (COLING 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.coling-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Second-Order Unsupervised Neural Dependency Parsing",
+          "authors": ["Songlin Yang", "Yong Jiang", "Wenjuan Han", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Computational Linguistics (COLING 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.coling-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "Adversarial Attack and Defense of Structured Prediction Models",
+          "authors": ["Wenjuan Han", "Liwen Zhang", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.emnlp-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "An Investigation of Potential Function Designs for Neural CRF",
+          "authors": ["Zechuan Hu", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.findings-emnlp.1.pdf"}
+          ]
+        },
+        {
+          "title": "More Embeddings, Better Sequence Labelers?",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Nguyen Bach", "Tao Wang", "Zhongqiang Huang", "Fei Huang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Findings of the Association for Computational Linguistics (EMNLP 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.findings-emnlp.2.pdf"}
+          ]
+        },
+        {
+          "title": "Enhanced Universal Dependency Parsing with Second-Order Inference and Mixture of Training Data",
+          "authors": ["Xinyu Wang", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "International Conference on Parsing Technologies (IWPT 2020)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2020.iwpt-1.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "papers": [
+        {
+          "title": "A Regularization-based Framework for Bilingual Grammar Induction",
+          "authors": ["Yong Jiang", "Wenjuan Han", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2019)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2019.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Multilingual Grammar Induction with Continuous Language Identification",
+          "authors": ["Wenjuan Han", "Ge Wang", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2019)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2019.emnlp-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "Enhancing Unsupervised Generative Dependency Parser with Contextual Information",
+          "authors": ["Wenjuan Han", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Association for Computational Linguistics (ACL 2019)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2019.acl-long.1.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "papers": [
+        {
+          "title": "CRF Autoencoder for Unsupervised Dependency Parsing",
+          "authors": ["Jiong Cai", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2017)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2017.emnlp-main.1.pdf"}
+          ]
+        },
+        {
+          "title": "Dependency Grammar Induction with Neural Lexicalization and Big Training Data",
+          "authors": ["Wenjuan Han", "Yong Jiang", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2017)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2017.emnlp-main.2.pdf"}
+          ]
+        },
+        {
+          "title": "Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition",
+          "authors": ["Yong Jiang", "Wenjuan Han", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2017)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2017.emnlp-main.3.pdf"}
+          ]
+        },
+        {
+          "title": "Semi-supervised Structured Prediction with Neural CRF Autoencoder",
+          "authors": ["Xiao Zhang", "Yong Jiang", "Hao Peng", "Kewei Tu", "Dan Goldwasser"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2017)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2017.emnlp-main.4.pdf"}
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "papers": [
+        {
+          "title": "Unsupervised Neural Dependency Parsing",
+          "authors": ["Yong Jiang", "Wenjuan Han", "Kewei Tu"],
+          "selfAuthor": "Yong Jiang",
+          "venue": "Empirical Methods in Natural Language Processing (EMNLP 2016)",
+          "links": [
+            {"text": "PDF", "url": "https://aclanthology.org/2016.emnlp-main.1.pdf"}
+          ]
+        }
+      ]
+    }
+  ]
+}
